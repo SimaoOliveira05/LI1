@@ -44,3 +44,8 @@ Pode gerar a documentação com o [Haddock](https://haskell-haddock.readthedocs.
 ```bash
 cabal haddock
 ```
+
+## Authors
+
+- *Gabriel Dantas* -> [@gabil88](https://github.com/gabil88)
+- *Simão Oliveira* -> [@SimaoOliveira05](https://github.com/SimaoOliveira05)
